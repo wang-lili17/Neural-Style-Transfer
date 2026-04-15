@@ -1,0 +1,21 @@
+# ===== CORE =====
+numpy
+matplotlib
+Pillow
+
+# ===== TENSORFLOW (VGG19 NST) =====
+tensorflow>=2.15.0
+
+# ===== PYTORCH (DIFFUSION) =====
+torch>=2.1.0
+torchvision>=0.16.0
+
+# ===== DIFFUSION STACK =====
+diffusers>=0.37.1
+transformers>=5.4.0
+accelerate>=1.13.0
+safetensors>=0.4.2
+
+# ===== EXTRA =====
+sentencepiece>=0.1.99
+invisible-watermark>=0.2.0
