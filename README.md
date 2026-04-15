@@ -1,4 +1,4 @@
-# **NEURAL STYLE TRANSFER PROJECT - Martiros Saryan**
+# **NEURAL STYLE TRANSFER PROJECT - MARTIROS SARYAN**
 
 ## **COURSE INFORMATION**
 
@@ -209,5 +209,5 @@ L_{total} = \alpha L_{content} + \beta L_{style} + \gamma L_{tv}
 ## **NOTES**
 
 - All code is implemented in Google Colab  
-- GPU is recommended (T4 or higher)  
+- GPU is recommended (T4 or other)  
 - The project is fully reproducible  
